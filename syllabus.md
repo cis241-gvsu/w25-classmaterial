@@ -12,7 +12,7 @@ Office Hours (tentative):
 
 Contact:
 
-* [Piazza](https://piazza.com/gvsu/fall2024/cis241/home) **preferred**
+* [Piazza](https://piazza.com/gvsu/winter2025/cis241/home) **preferred**
 * [erin.carrier@gvsu.edu](mailto:erin.carrier@gvsu.edu?subject=[CIS241]) ^^^in almost all cases use Piazza
 
 ## Course Description
@@ -128,7 +128,7 @@ This course is subject to the GVSU policies listed at
 
 ### General Course Policies
 * Projects (all) and minilabs (any requiring submission will) be submitted through
-  [PrairieLearn](https://us.prairielearn.com/pl/course_instance/162478) and, in
+  [PrairieLearn](https://us.prairielearn.com/pl/course_instance/172675) and, in
   some cases, also through Github.  More details will be
   provided with the first assignment, but you will need to create a github
   account.  Most minilabs will be awarded credit based attendance on the day
