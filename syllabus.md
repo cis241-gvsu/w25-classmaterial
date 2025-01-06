@@ -90,7 +90,7 @@ After successful completion of the course a student should be able to:
 ** Note:  independent of your grade, in order to pass the course you must accomplish all of the following:**
 * average at least 45% on the two C projects
 * average at least 45% on the two Linux projects
-* average at least 60% on the exams/tests/quizzes
+* average at least 55% on the exams/tests/quizzes
 
 
 
