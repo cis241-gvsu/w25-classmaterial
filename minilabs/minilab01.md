@@ -45,7 +45,7 @@ with relative paths.
 
 ## Question 6
 Suppose you are in `/home/alovelace/dir1` (but you are
-still `ghopper`.  Write a command to rename your
+still `ghopper`).  Write a command to rename your
 (ghopper's) `dir2` directory to `new`,
 without changing directories.
 Try doing this with both absolute paths and with relative paths.
