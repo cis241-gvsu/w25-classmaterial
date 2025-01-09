@@ -33,6 +33,7 @@ Suppose you are in the `/usr` directory.
 Write the command to copy fileA.txt from your `dir2`
 directory to the tmp directory, without chanigng directories.
 <br><br><br><br><br>
+<br><br>
 
 ## Question 5
 Suppose you are in the root directory.  Write
@@ -40,6 +41,7 @@ the command to remove your `dir1` directory.
 Try doing this with absolute paths, then again
 with relative paths.
 <br><br><br><br><br>
+<br><br>
 
 ## Question 6
 Suppose you are in `/home/alovelace/dir1` (but you are
