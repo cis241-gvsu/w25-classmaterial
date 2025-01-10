@@ -17,13 +17,13 @@ Write the full absolute path to your home directory.
 ## Question 2
 Suppose you are in your home directory.
 Write the command to change into the `tmp` directory
-using only absolute paths, without changing directories.
+using only absolute paths.
 <br><br><br><br>
 
 ## Question 3
 Suppose you are in your home directory.
 Write the command to change into the `tmp` directory
-using only relative paths, without changing directories.
+using only relative paths.
 <br><br><br><br>
 
 
