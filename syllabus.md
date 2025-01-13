@@ -5,10 +5,10 @@ Instructor: Erin Carrier
 
 Office:  C-2-211 MAK
 
-Office Hours (tentative):
+Office Hours:
 * Tuesdays:  9:00am - 9:55am
-* Wednesdays: 1:00pm - 2:00pm
-* Fridays:  1:00pm - 2:00pm
+* Wednesdays: 3:15pm - 4:15pm
+* Fridays:  10:00am - 10:55am
 
 Contact:
 
