@@ -5,7 +5,7 @@ for the first test.
 
 Consider the following diagram representing a filesystem:
 
-![filesystem diagram](figs/diagram-filesytem-review.png)
+![filesystem diagram](figs/diagram-filesystem-review.png)
 
 Suppose you are Alan.  
 
