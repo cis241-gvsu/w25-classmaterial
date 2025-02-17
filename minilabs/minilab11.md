@@ -11,17 +11,22 @@ Consider the following regex:
 
 ### Q1, Part 1
 Come up with 5 different strings that match this regular expression.
+<pre>
 <br><br><br><br>
 
-# 
+
+</pre>
 
 ### Q1, Part 2,
 Come up with 3 different strings that don't match this
 regex where the only characters in the string are
 a,b,c,d,e, or punctuation.
+<pre>
 <br><br><br><br>
 
-# 
+
+</pre>
+
 
 ## Question 2
 Come up with two separate regular expressions
