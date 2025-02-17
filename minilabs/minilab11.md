@@ -12,12 +12,14 @@ Consider the following regex:
 ### Q1, Part 1
 Come up with 5 different strings that match this regular expression.
 <br><br><br><br>
+<p style="margin-bottom:3cm;"></p>
 
 ### Q1, Part 2,
 Come up with 3 different strings that don't match this
 regex where the only characters in the string are
 a,b,c,d,e, or punctuation.
 <br><br><br><br>
+<p style="margin-bottom:3cm;"></p>
 
 
 
