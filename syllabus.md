@@ -102,7 +102,7 @@ There will be two opportunities for extra credit.
   The exact formula is not yet determined, but the extra credit will
   be capped at 1% of the overall course grade.
 * In this course we'll use a system called
-  [ClassTranscribe](https://classtranscribe.com/offering/2eda65cf-d00f-4a0b-bb00-7bba2f88ccc6)
+  [ClassTranscribe](https://classtranscribe.illinois.edu/offering/2eda65cf-d00f-4a0b-bb00-7bba2f88ccc6)
   for lecture videos that allows students to caption videos.
   The goal of this is to:
 
