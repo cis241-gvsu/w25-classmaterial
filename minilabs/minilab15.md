@@ -1,6 +1,6 @@
-## Minilab 14
+## Minilab 15
 
-This minilab's goal s for you to become more
+This minilab's goal is for you to become more
 comfortable using pointers.
 
 Specifically, in this minilab we are going
@@ -35,7 +35,7 @@ of an array with both pointer arithmetic and array indexing notation.
 
 ### Part 2 - Dynamically Allocated & Pointer Arithmetic
 1. Allocate enough memory for 12 integers on the heap
-2. Allocate enough memory for 12 integers on the heap (this
+2. Allocate another block of memory for 12 integers on the heap (this
    will be to replace the second array from above)
 3. Use a for loop and pointer arithmetic
    to fill the array with the numbers 0 to 11.
@@ -46,8 +46,9 @@ of an array with both pointer arithmetic and array indexing notation.
 5. Use a third for loop and pointer arithmetic
    to print out the values in the array
    of cumulative sums
+6. Free your allocated memory.
 
 **Note: while you can use standard array indexing notation
 with pointers, you shouldn't for this minilab
 bcause the whole point is to make sure you are comfortable
-with pointers.
+with pointers.**
