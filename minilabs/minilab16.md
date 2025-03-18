@@ -10,4 +10,3 @@ two integers.  It should work in-place, actually modifying
 the integers.  It should return void.  You'll likely
 have to think through how you can accomplish this
 and likely need to try a few different ways.
-You should test using the integers you read from stdin.
