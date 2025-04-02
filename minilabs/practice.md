@@ -42,6 +42,7 @@ Consider the following code:
 39.     return 0;
 40. 
 41. }
+```
 
 ## Question 1
 For each of the following, identify whether they are on the stack or the heap:
