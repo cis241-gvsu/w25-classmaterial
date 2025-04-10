@@ -1,4 +1,4 @@
-# Minilab 17 - Memory Leak
+# Minilab - Memory Leak
 
 Suppose you have the following code:
 
