@@ -13,6 +13,9 @@ While that's a useful tool to check, if you have to do it for everything
 there is a decent chance you might run out of time on the tests / not
 have enough time to do the questions that actually ask you to write code.
 
+* [Linux and Scripting Portion Recap](linux-and-scripting-portion) (copied from test1 and test 2 recap)
+* [C Portion Recap](c-portion)
+
 ## General Big Picture Tasks
 * **KNOW TO USE AND BE ABLE TO ACCESS AND READ THE MANPAGES**
 * Make sure you know how to access files you edit in the terminal
@@ -139,7 +142,7 @@ covered:
       choice / matching type question about them
     
 
-## Linux and Scripting Portion (copied from test1 and test2 review)
+## Linux and Scripting Portion 
 ### Big Picture Tasks
 * Be able to write, understand, and use things like bash, sed, gawk
 * Be able to navigate the file system, run the various commands we discussed, etc.
