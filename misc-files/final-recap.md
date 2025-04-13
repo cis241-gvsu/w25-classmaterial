@@ -57,7 +57,9 @@ covered:
 * Header files
     * When do you use them?
     * Be able to create one
-    * How do we use them
+    * How do we use them?
+    * What do we put in them?
+    * What is an include guard and why is it used?
 * Know the different datatypes, operators, and logical operators
 * Input/Output
     * reading from stdin - know the different functions for reading
