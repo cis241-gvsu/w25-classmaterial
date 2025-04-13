@@ -141,6 +141,7 @@ covered:
       but you should be able to answer a simple checkbox / multiple
       choice / matching type question about them
     
+<br><br>
 
 ## Linux and Scripting Portion 
 ### Big Picture Tasks
