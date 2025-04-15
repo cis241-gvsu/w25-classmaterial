@@ -80,9 +80,15 @@ int main(void) {
 Does this code rely on undefined behavior?
 If yes, where and how would you fix it?
 If no, what is the output of the above code?
-<br><br><br>
+<pre>
 
-#  
+
+
+
+
+
+
+</pre>
 
 ### Question 2
 How would you fix the memory leak in the above code?
